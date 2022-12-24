@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.navbar {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
